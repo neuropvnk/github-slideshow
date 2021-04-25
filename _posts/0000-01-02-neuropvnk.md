@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is gonna be a long, long ride.
+__*"Nevermore"*__ 
 Use the left arrow to go back!
